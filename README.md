@@ -1,7 +1,7 @@
  <img src="https://www.shutterstock.com/image-photo/mobile-apps-concept-young-man-holding-329765135" alt="dev image"></img>
 
 # 💫 About Me:
-I'm currently working on Mobile Development<br>Ask me about how to get this done !<br>I'm currently learning Machine learning<br>fun fact about me is that i think fairy leave baby at door steps .
+I'm currently working in Mobile application Development<br>Ask me about how to get this done !<br>I'm currently learning Machine learning<br>fun fact about me is that i think fairy leave baby at door steps .
 
 
 ## 🌐 Socials:
