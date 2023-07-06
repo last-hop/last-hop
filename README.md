@@ -12,9 +12,5 @@ I'm currently working in Mobile application Development<br>Ask me about how to g
 ![](https://github-readme-streak-stats.herokuapp.com/?user=last-hop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=last-hop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Amansingh9129)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-
-![](https://github-contributor-stats.vercel.app/api?username=last-hop&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
