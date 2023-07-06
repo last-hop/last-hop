@@ -1,8 +1,6 @@
- <img src="https://www.shutterstock.com/image-photo/mobile-apps-concept-young-man-holding-329765135" alt="dev image"></img>
 
 # 💫 About Me:
-I'm currently working in Mobile application Development<br>Ask me about how to get this done !<br>I'm currently learning Machine learning<br>fun fact about me is that i think fairy leave baby at door steps .
-
+I'm currently working in Mobile application Development<br>Ask me about how to get this done !<br>I'm currently learning Machine learning<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_last_one_standing/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-singh-9129as/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Amansingh9129) 
