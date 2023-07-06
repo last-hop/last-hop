@@ -18,10 +18,3 @@ I'm currently working in Mobile application Development<br>Ask me about how to g
 
 ![](https://github-contributor-stats.vercel.app/api?username=last-hop&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=last-hop&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
